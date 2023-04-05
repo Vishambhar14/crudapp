@@ -37,7 +37,7 @@ export default function Crud() {
        <input type="email" placeholder="Enter your email" className="email"  onChange={(e) => setEmail(e.target.value)}/>
        <button type="submit" class="btn btn-primary" onClick={handlesubmit}>submit</button>
      </form>
-      {/* <Data/> */}
+ 
         </>
     )
 }
