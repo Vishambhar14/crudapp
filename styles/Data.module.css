@@ -1,0 +1,32 @@
+/* .tabl{
+   border: 1px solid black;
+   margin-top: 2rem;
+   border-radius: 0.5rem;
+   width: 500px;
+}
+.tr1{
+     margin: 1rem;
+}
+.tr1 th{
+    margin: 1rem;
+}
+.btn{
+    cursor: pointer;
+} */
+
+.box{
+   width: 400px;
+   
+ 
+   display: flex;
+   box-shadow: 0 0 10 10px 10px gainsboro;
+
+  }
+  .box ul {
+    display: flex;
+    list-style: none;
+  }
+  .box ul li{
+    margin: 0.5rem;
+  }
+  
